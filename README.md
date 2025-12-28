@@ -1,14 +1,8 @@
-# \# 🍕 Pizza Sales SQL Analytics Project
-
+\##🍕 Pizza Sales SQL Analytics Project
 # 
-
 # An end-to-end \*\*SQL Data Analysis Portfolio Project\*\* on pizza sales data using \*\*MySQL\*\* to extract
 
-# business insights and answer real-world business questions.
-
-# 
-
-# ---
+# Business insights and answer real-world business questions.
 
 # 
 
@@ -27,10 +21,9 @@
 # \- Which days and weekends perform better?
 
 # \- Which pizzas are top-selling and which are underperforming?
+# \- And much more
 
 # 
-
-# ---
 
 # 
 
@@ -38,23 +31,22 @@
 
 # 
 
-# | Folder Name   | Description                                |
+# | Folder Name        | Description                                |
 
-# |--------------|--------------------------------------------|
+# |--------------------|--------------------------------------------|
 
-# | Dataset      | Raw CSV files used for analysis            |
+# | Dataset            | Raw CSV files used for analysis            |
 
-# | SQL Queries  | All SQL scripts (Joins, CTEs, Window Func) |
+# | SQL Queries        | All SQL scripts (Joins, CTEs, Window Func) |
 
-# | Questions    | Business problem statements                |
+# | Questions          | Business problem statements                |
 
-# | Results      | Output CSV files with insights             |
+# | Results            | Output CSV files with insights             |
 
-# | Screenshots  | Query \& result screenshots                 |
+# | Screenshots        | Query \& result screenshots                |
 
 # 
 
-# ---
 
 # 
 
@@ -70,7 +62,6 @@
 
 # 
 
-# ---
 
 # 
 
@@ -86,7 +77,6 @@
 
 # 
 
-# ---
 
 # 
 
@@ -104,15 +94,12 @@
 
 # 
 
-# ---
 
 # 
 
 # \## 👤 Author
 
-# 
-
-# \*\*Hemant Sharma\*\*  
+# Hemant Sharma
 
 # Data Analytics Enthusiast | IIT BHU
 
