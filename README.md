@@ -33,17 +33,17 @@
 
 # | Folder Name \-> Description     
 
-# |--------------------|--------------------------------------------|
+# |-------------------|---------------------------------------------|
 
-# | Dataset  \-> Raw CSV files used for analysis   
+#  Dataset  \-> Raw CSV files used for analysis   
 
-# | SQL Queries  \-> All SQL scripts (Joins, CTEs, Window Func)
+#  SQL Queries  \-> All SQL scripts (Joins, CTEs, Window Func)
 
-# | Questions  \-> Business problem statements   
+#  Questions  \-> Business problem statements   
 
-# | Results \-> Output CSV files with insights     
+#  Results \-> Output CSV files with insights     
 
-# | Screenshots  \-> Query \& result screenshots      
+#  Screenshots  \-> Query \& result screenshots      
 
 # 
 
