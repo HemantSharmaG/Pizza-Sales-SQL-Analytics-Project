@@ -31,7 +31,7 @@
 
 # 
 
-# | Folder Name \-> Description     
+# | Folder Name \-> Description    
 
 # |------------------|----------------------------------------------|
 
