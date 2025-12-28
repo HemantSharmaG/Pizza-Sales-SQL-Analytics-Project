@@ -1,4 +1,4 @@
-\##🍕 Pizza Sales SQL Analytics Project
+# \#🍕 Pizza Sales SQL Analytics Project
 # 
 # An end-to-end \*\*SQL Data Analysis Portfolio Project\*\* on pizza sales data using \*\*MySQL\*\* to extract
 
@@ -31,19 +31,19 @@
 
 # 
 
-# | Folder Name        | Description                                |
+# | Folder Name \-> Description     
 
 # |--------------------|--------------------------------------------|
 
-# | Dataset            | Raw CSV files used for analysis            |
+# | Dataset  \-> Raw CSV files used for analysis   
 
-# | SQL Queries        | All SQL scripts (Joins, CTEs, Window Func) |
+# | SQL Queries  \-> All SQL scripts (Joins, CTEs, Window Func)
 
-# | Questions          | Business problem statements                |
+# | Questions  \-> Business problem statements   
 
-# | Results            | Output CSV files with insights             |
+# | Results \-> Output CSV files with insights     
 
-# | Screenshots        | Query \& result screenshots                |
+# | Screenshots  \-> Query \& result screenshots      
 
 # 
 
@@ -69,11 +69,11 @@
 
 # 
 
-# \- \*\*Large size pizzas generate the highest revenue.\*\*
+# \- Large size pizzas generate the highest revenue.
 
-# \- \*\*Evening hours (6 PM – 9 PM) show maximum sales volume.\*\*
+# \- Evening hours (6 PM – 9 PM) show maximum sales volume.
 
-# \- \*\*Weekend sales are significantly higher than weekdays.\*\*
+# \- Weekend sales are significantly higher than weekdays.
 
 # 
 
